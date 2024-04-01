@@ -24,3 +24,4 @@ The Crew - https://team-crew.github.io/
 Scrubs V2 - https://jewbmx.github.io/
 Seren - https://nixgates.github.io/packages/
 Umbrella - https://umbrellaplug.github.io/
+TMDB/Arctic Horizon 2 - https://jurialmunkey.github.io/repository.jurialmunkey/
