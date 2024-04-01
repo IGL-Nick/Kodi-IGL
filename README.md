@@ -20,3 +20,4 @@ Couch Monkey Recommendations Trakt - https://couchmoney.tv/
 A4K Subtitles Guide - https://a4k-openproject.github.io/a4kSubtitles/packages/
 A4K URL - https://a4k-openproject.github.io/a4kSubtitles/packages/
 The Crew - https://team-crew.github.io/
+Scxrubs V2 - https://jewbmx.github.io/
