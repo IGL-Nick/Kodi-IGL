@@ -10,6 +10,7 @@ System > Display > Use Fullscreen Window = On (if decent PC) or Off (if low-powe
 System > Addons > Unknown Sources = On (Required to install 3rd party addons)
 
 # Kodi-IGL
+PIA - https://www.privateinternetaccess.com/installer/download_installer_android
 The Loop URL- https://loopaddon.uk/loop19/
 Fentastic Guide- https://github.com/ivarbrandt/skin.fentastic
 Fentastic URL - https://ivarbrandt.github.io/repository.ivarbrandt/
@@ -20,4 +21,6 @@ Couch Monkey Recommendations Trakt - https://couchmoney.tv/
 A4K Subtitles Guide - https://a4k-openproject.github.io/a4kSubtitles/packages/
 A4K URL - https://a4k-openproject.github.io/a4kSubtitles/packages/
 The Crew - https://team-crew.github.io/
-Scxrubs V2 - https://jewbmx.github.io/
+Scrubs V2 - https://jewbmx.github.io/
+Seren - https://nixgates.github.io/packages/
+Umbrella - https://umbrellaplug.github.io/
